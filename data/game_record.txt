@@ -1,0 +1,12 @@
+marge 10
+bart 99
+millhouse 87
+homer 9
+lisa 88
+nelson 444
+willy 80
+otto 90
+carl 76
+lenny 6
+selma 88
+petty 56
